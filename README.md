@@ -24,3 +24,5 @@ Step9:Connect the Hive to Tableau using ODBC Drivers.
 Step10:Visualize the Hive data to tableau in pie diagrams/bar charts....etc
 
 Step11:stop running all the processess.
+
+Note: Code Details mentioned in the above PDF
